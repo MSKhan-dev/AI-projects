@@ -1,6 +1,6 @@
 ﻿# 🌟 Muhammad Khan – AI & Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MS%20Khan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mskhan25/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MS%20Khan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sami-k/)  
 [![GitHub](https://img.shields.io/badge/GitHub-MS%20Khan-black?style=flat-square&logo=github&logoColor=white)](https://github.com/MSKhan-dev)
 
 Welcome! I’m **Muhammad Khan**, an aspiring **AI & Python developer** passionate about building intelligent systems and solving real-world problems with code.  
