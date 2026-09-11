@@ -15,7 +15,7 @@ This repository contains **all my projects from Harvard’s CS50: Introduction t
 - 🔹 **Languages & Tools:** Python, SQL, Linux, JavaScript, C++  
 - 🔹 **Frameworks & Libraries:** TensorFlow, Keras, NumPy, Scikit-learn  
 - 🔹 **Other Skills:** Algorithms, Reinforcement Learning, Neural Networks, NLP, Git & GitHub, CI/CD, Server Management  
-- 🔹 **LinkedIn:** [https://www.linkedin.com/in/mskhan25/](https://www.linkedin.com/in/mskhan25/)
+- 🔹 **LinkedIn:** [https://www.linkedin.com/in/mskhan25/](https://www.linkedin.com/in/m-sami-k/)
 
 ---
 
